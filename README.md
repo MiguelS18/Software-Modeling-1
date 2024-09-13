@@ -1,2 +1,2 @@
 # Software-Modeling-1
-asassa
+This is my own repository of the course of software modeling 1
