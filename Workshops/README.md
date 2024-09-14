@@ -1,0 +1,1 @@
+This folder contains the folders of each workshop separetly
