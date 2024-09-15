@@ -1,3 +1,4 @@
+#Workshop 1 Summary
 The workshop had the objective to  create a software that allow an user
 to purchase arcade machines, with some customization options
 
