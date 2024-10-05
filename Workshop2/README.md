@@ -16,7 +16,7 @@ application that was made for the workshop 1
 	So that I know what games I’m going to buy with my arcade machine.
  
 **5.** As a customer I want to add new games to the list of games in the arcade machines, 
-	so that I can have more games of my tast
+	so that I can have more games of my taste.
 	
 ## The folder of the workshop 1 contains 4 files:
 **-Report Worshop 2.pdf:** Contains all of the diagrams and other 
