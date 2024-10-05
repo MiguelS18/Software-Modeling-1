@@ -11,8 +11,11 @@ application that was made for the workshop 1
 
 **3.** As a customer I want to see the list of available games of the arcade machine. 
 	So that I know what games I’m going to buy with my arcade machine.
+
+**4.** As a customer I want to choose between HD and Standard definition videogames. 
+	So that I know what games I’m going to buy with my arcade machine.
  
-**4.** As a customer I want to add new games to the list of games in the arcade machines, 
+**5.** As a customer I want to add new games to the list of games in the arcade machines, 
 	so that I can have more games of my tast
 	
 ## The folder of the workshop 1 contains 4 files:
