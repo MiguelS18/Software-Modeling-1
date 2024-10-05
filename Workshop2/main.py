@@ -19,7 +19,7 @@ ArcadeSeller. If not, see <https://www.gnu.org/licenses/>.
 
 """
 
-from arcade import ArcadeFactory, Arcade
+from arcade import ArcadeFactory
 from videogame import videogame_factory
 from user import Customer
 
