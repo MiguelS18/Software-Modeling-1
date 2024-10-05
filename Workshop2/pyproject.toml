@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "arcadesellerv2"
+version = "0.2.0"
+description = "This is a software that allows an user to select between different predefined arcade machines and customize it as he likes"
+authors = ["Miguel Sanabria <masanabriap@udistrital.edu.co>"]
+license = "GPL-3.0"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
