@@ -27,9 +27,6 @@ class Main:
     """
     This class represents the behavior of the application
     """
-
-    def __init__(self):
-        self.__catalog = []
     
     def valid_option(self, prompt: str, options: list):
         """
