@@ -40,11 +40,6 @@ class hd_videogame(Videogame):
         self.__category = category
         self.__hd_price = 10000
         self.__year = year
-
-    def create_vg(self) -> Videogame:
-        return hd_videogame(name= self.__name, storytelling_creator= self.__storytelling_creator, 
-                            graphics_creator= self.__graphics_creator, category= self.__category, 
-                            hd_price= self.__hd_price, year= self.__year)
     
     def __str__(self) -> str:
         return f"Name: {self.__name} \n Story Creator: {self.__storytelling_creator} \n Graphics Creator: {self.__graphics_creator} \n\
@@ -61,12 +56,6 @@ class standard_videogame(Videogame):
         self.__category = category
         self.__standard_price = 4000
         self.__year = year
-
-    def create_vg(self) -> Videogame:
-        return standard_videogame(name= self.__name, 
-                                  storytelling_creator= self.__storytelling_creator, 
-                                  graphics_creator= self.__graphics_creator, category= self.__category, 
-                                  standard_price= self.__standard_price, year= self.__year)
     
     def __str__(self) -> str:
         return f"Name: {self.__name} \n\

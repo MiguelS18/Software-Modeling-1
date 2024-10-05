@@ -24,7 +24,6 @@ class Customer():
     This class represents the behavior of a customer in the application
     """
     def __init__(self, Name: str, Email: str, Address: str, ):
-        self.__id = id
         self.__Name = Name
         self.__Email = Email
         self.__Address = Address
